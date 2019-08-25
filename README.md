@@ -10,13 +10,13 @@ This repository contains important security information regarding CheatBreaker.
 * When you run a legitimate CheatBreaker executable, you will see that the file is signed by CheatBreaker, LLC:
 
 
-![Signed Executable](https://i.imgur.com/MrsHXHF.png)
+![Signed Executable](https://i.imgur.com/QR8Zsj7.png)
 
 
-![Certificate Info](https://i.imgur.com/whMsnPt.png)
+![Certificate Info](https://i.imgur.com/qoUaSJw.png)
 
 
-![Certificate Details](https://i.imgur.com/OjEeMKv.png)
+![Certificate Details](https://i.imgur.com/s9lZU3b.png)
 
 **Serial Number:** 0d9760c0d3af1246f8dc151117ac2495
 
